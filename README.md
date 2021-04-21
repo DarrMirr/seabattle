@@ -1,5 +1,5 @@
 # Seabattle
-Seabattle is my first application that I have wrote at Java
+Seabattle is my first application that I have written at Java
 
 #### Requirements
 
