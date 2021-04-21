@@ -1,11 +1,11 @@
 # Seabattle
 Seabattle is my first application that I have written at Java
 
-#### Requirements
+### Requirements
 
 - Java 7
 
-#### How to run
+### How to run
 
 **Linux:**
 
@@ -20,7 +20,7 @@ Seabattle is my first application that I have written at Java
 1. Move to directory `out`, than `artifacts` and than `Seabattlev03_jar`
 1. Execute `seabattle.exe`
 
-#### Screenshot:
+### Screenshot:
 
 ![](.img/sea_battle_screenshot.PNG)
 
